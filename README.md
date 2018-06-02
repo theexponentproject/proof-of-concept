@@ -1,4 +1,6 @@
-![Logo](https://user-images.githubusercontent.com/3171564/40881088-deee55ae-6683-11e8-89b3-c41db31cd933.png | width=100)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/3171564/40881088-deee55ae-6683-11e8-89b3-c41db31cd933.png">
+</p>
 # Proof of Concept
 
 # Use Cases
