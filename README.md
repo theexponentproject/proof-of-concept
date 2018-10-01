@@ -48,6 +48,7 @@ https://medium.com/@SocialAlpha/social-alpha-blockchain-for-social-impact-hackat
 
 # References
 [1] https://www.cs.cornell.edu/home/kleinber/focs05-qin.pdf
+
 [2] http://science.sciencemag.org/content/334/6055/509
 
 
