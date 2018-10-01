@@ -18,3 +18,17 @@ This directory holds the proof of concept developed for Impact Summit in June 20
 * Rallying supporters of a politican cause
 
 
+
+# Media
+https://medium.com/@SocialAlpha/social-alpha-blockchain-for-social-impact-hackathon-42802909f016
+
+# Contributors 
+
+* Andrew Kuznetsov
+* Matthew Feng
+* Reahman (Adeel) Afshar
+
+(Left Three)
+<p align="center">
+ <img src=" https://user-images.githubusercontent.com/3171564/46313410-caeb0900-c595-11e8-8fd3-1132dff0a4dc.png">
+</p>	
