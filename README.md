@@ -30,5 +30,5 @@ https://medium.com/@SocialAlpha/social-alpha-blockchain-for-social-impact-hackat
 
 (Left Three)
 <p align="center">
- <img src=" https://user-images.githubusercontent.com/3171564/46313410-caeb0900-c595-11e8-8fd3-1132dff0a4dc.png">
+ <img src="https://user-images.githubusercontent.com/3171564/46313493-fc63d480-c595-11e8-836c-604cb3b9b175.png">
 </p>	
