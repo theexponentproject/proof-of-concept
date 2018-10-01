@@ -40,8 +40,8 @@ https://medium.com/@SocialAlpha/social-alpha-blockchain-for-social-impact-hackat
 * How do we best combat malicious behavior such as self-looping and users that break the one-user-one-wallet paradigm?
 * What is the best way to encrypt our information as we store it on the public ledger? Should we be using a private ledger?
 * This system assumes the search organizers can be trusted. How do we verify organizers? How do we verify that they selected the right person to reward?
-* Can we expose information others have submitted to participants to aid their efforts? If we do, how do we make sure they get credited? Is there a mechanisms that would assist us in handling misinformation?
-* How would we implement searches that may have multiple stages? Multiple identical objects? Can only be verified once?
+* Should we expose submitted information to other participants to aid their efforts? If we do, how do we fairly credit those who submit crucial progress-assisting information? Is there a mechanism that would assist us in handling misinformation?
+* How would we implement searches that may have multiple stages? Multiple identical objects? Are expensive (or prohibitive) to verify?
 * Blockchain UX is notoriously difficult. How do we make this system easy to use and register for users not familiar with crypto currency?
 * A significant amount of real-world searching is done with only access to a phone (or even just SMS). Can we make keep mobile in mind?
 * Understanding the current effort progress is difficult without a visualization. What are good ways of communicating this data to participants and search organizers?
